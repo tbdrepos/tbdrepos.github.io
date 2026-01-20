@@ -2,8 +2,8 @@
 
 Here are all my deployed sites:
 
-- [Tasker](https://tbdrpeops.github.io/tasker/)
-- [ML Dashboard](https://tbdrpeops.github.io/ml-dashboard/)
+- [Tasker](https://tbdrepos.github.io/tasker/)
+- [ML Dashboard](https://tbdrepos.github.io/ml-dashboard/)
 
 ---
 
